@@ -1,4 +1,4 @@
-from creds import *
+from twit_creds import *
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
